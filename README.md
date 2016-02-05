@@ -1,6 +1,3 @@
-documentation
-=============
+THE WIKI IS DOWN https://wiki.voidlinux.eu/
 
-Void Linux documentation
-
-Please see the [Wiki](http://wiki.voidlinux.eu "Void GNU/Linux Wiki") for more information. :)
+i cant fill any issue here, so i do a pullreq to report this :P
